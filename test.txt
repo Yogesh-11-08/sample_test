@@ -3,3 +3,4 @@
 3. This is a new comment.
 4. this line has been added.
 5. this is a new line by the dev
+6. Point added as dev in dev

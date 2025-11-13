@@ -2,6 +2,3 @@
 2. This is a test file.
 3. This is a new comment.
 4. this line has been added.
-5. This is dev change.
-6. Another line added in dev branch.
-7. New line added by dev 
